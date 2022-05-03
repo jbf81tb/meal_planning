@@ -1,0 +1,6 @@
+venv/
+sheets_token.json
+gmail_token.json
+recent_groups.txt
+recent_meals.txt
+credentials.json

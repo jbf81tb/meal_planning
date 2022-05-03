@@ -1,0 +1,1 @@
+"C:\Users\joshu\Code\meal_planning\venv\Scripts\python.exe" "C:\Users\joshu\Code\meal_planning\main.py"
